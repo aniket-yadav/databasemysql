@@ -10,7 +10,7 @@
             <input type="text" name="name">
             <Br/>
             Enter password
-            <input type="pwd" name="password">
+            <input type="password" name="password">
             <br>
             Enter college
             <input type="text" name="college"> 
